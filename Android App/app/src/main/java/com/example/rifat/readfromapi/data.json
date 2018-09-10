@@ -1,0 +1,8 @@
+{
+  "data":
+  [
+    {"date": "1/1/2011" ,"time": "10:20PM", "status": "blocked"},
+    {"date": "1/1/2011" ,"time": "10:20PM", "status": "blocked"},
+    {"date": "1/1/2011" ,"time": "10:20PM", "status": "allowed"}
+  ]
+}
