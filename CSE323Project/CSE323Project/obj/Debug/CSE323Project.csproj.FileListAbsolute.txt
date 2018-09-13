@@ -1,0 +1,15 @@
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.Properties.Resources.resources
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.GenerateResource.Cache
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.CoreCompileInputs.cache
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\CSE323Project.exe.config
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\CSE323Project.exe
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\CSE323Project.pdb
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.exe
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.pdb
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csprojResolveAssemblyReference.cache
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.ResolveComReference.cache
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.Admin.resources
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.formMain.resources
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\Newtonsoft.Json.xml
