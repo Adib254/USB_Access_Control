@@ -17,4 +17,7 @@ Companies can use such a system to restrict access to unauthorized USB devices i
  4. In order to add a new pendrive to the whitelist, the desktop application has to be logged in to the admin panel and click on the Add to whitelist button. Then a prompt would tell you to insert the new pendrive. Once inserted, the fingerprint of that pendrive would be registered and updated into the control server's database and a success message would be displayed.<br />
  <br />
  Thats all about it, thanks for showing your interest in my project :)
+  <br />
+  <b>Feel free to contact me on telegram if you need any assistance/info regarding this project: @R3tr0B0x<b>
+ 
  
